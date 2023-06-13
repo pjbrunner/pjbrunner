@@ -14,4 +14,4 @@
 
 :email: pjbrunner542@gmail.com :envelope:
 
-### I have a website too, [pjbrunner.com](https://pjbrunner.com)
+### I have a website too, [peterbrunner.me](https://peterbrunner.me/)
