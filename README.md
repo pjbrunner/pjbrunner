@@ -8,7 +8,6 @@
 - Using the command line
 - Fruit :green_apple: :watermelon: :pineapple: :grapes: :strawberry:
 - Costco :cool:
-- :bicyclist: Biking
 
 ### If you want to hit me up
 
